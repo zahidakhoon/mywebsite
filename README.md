@@ -1,7 +1,8 @@
 If you’re looking to purchase Cisco's official books for the CCNA or CCNP certifications, here are the top choices that are highly recommended by Cisco. These books are updated regularly to reflect the latest exam objectives and best practices.
 
-TG: https://t.me/cisco_certifications
-GNS3 Installation: https://youtu.be/Yz3eNmheg7g?si=JVBoZZspW4Clp3N1
+Telegram Group: https://t.me/cisco_certifications
+YouTube: https://www.youtube.com/@RoutingConcepts
+LinkedIn: https://www.linkedin.com/company/routingconcepts/?viewAsMember=true
 
 ---------------------------CCNA--------------------------
 CCNA 200-301 Official Cert Guide, Volume 1:
